@@ -18,7 +18,7 @@ Total_Stops: Total stops between the source and destination.
 Additional_Info: Additional information about the flight
 Price(target): The price of the ticket
 
-#Type of Machine Learning task :
+# Type of Machine Learning task
 It is an regression problem where given a set of features we need to predict the price of ticket from one city to another.Used ensemble learning method like Random Forest
 
 # Performace Metric
